@@ -6,14 +6,14 @@
 [user]
 	name = Guillem Andreu
 	email = git@guillemandreu.com
-	signingkey = xyz
+	signingkey = ABCXYZ
 [core]
 	editor = nano
 	excludesfile = /Users/guillem/.gitignore
 [commit]
 	gpgsign = true
 [gpg]
-	program = /usr/local/MacGPG2/bin/gpg2
+	program = /opt/homebrew/bin/gpg
 [pull]
 	rebase = true
 [difftool "sourcetree"]
