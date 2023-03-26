@@ -13,7 +13,6 @@ plugins=(
   npm
   nvm
   ssh-agent
-  thefuck
   vscode
 )
 source $ZSH/oh-my-zsh.sh

@@ -9,7 +9,7 @@
 	signingkey = ABCXYZ
 [core]
 	editor = nano
-	excludesfile = /Users/guillem/.gitignore
+	excludesfile = /Users/guill3m/.gitignore
 [commit]
 	gpgsign = true
 [gpg]
