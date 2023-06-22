@@ -10,6 +10,7 @@ brew 'ffmpeg'
 brew 'gh'
 brew 'git'
 brew 'git-lfs'
+brew 'gnupg'
 brew 'httpie'
 brew 'jq'
 brew 'mas' # Mac App Store manager
