@@ -15,13 +15,17 @@ brew 'httpie'
 brew 'jq'
 brew 'mas' # Mac App Store manager
 brew 'nvm'
+brew 'opentofu'
 brew 'pinentry-mac'
 brew 'ssh-copy-id'
+brew 'terraformer'
+brew 'terragrunt'
 
 # Apps
 cask '1password'
 cask 'discord'
 cask 'firefox'
+cask 'firefox-developer-edition'
 cask 'google-chrome'
 cask 'imageoptim'
 cask 'visual-studio-code'
