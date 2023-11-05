@@ -6,6 +6,7 @@ tap 'homebrew/bundle'
 
 # Binaries
 brew 'coreutils'
+brew 'docker'
 brew 'ffmpeg'
 brew 'gh'
 brew 'git'
@@ -23,12 +24,24 @@ brew 'terragrunt'
 
 # Apps
 cask '1password'
+cask '1password-cli'
+cask 'affinity-designer'
+cask 'affinity-photo'
+cask 'affinity-publisher'
+cask 'arc'
+cask 'chromium'
 cask 'discord'
 cask 'firefox'
 cask 'firefox-developer-edition'
 cask 'google-chrome'
+cask 'gpg-suite-no-mail'
 cask 'imageoptim'
+cask 'iterm2'
+cask 'skype'
+cask 'sourcetree'
+cask 'vial'
 cask 'visual-studio-code'
+cask 'zoom'
 
 # Mac App Store
 mas 'Keynote', id: 409183694
@@ -37,4 +50,5 @@ mas 'NepTunes', id: 1006739057
 mas 'Numbers', id: 409203825
 mas 'NordVPN', id: 905953485
 mas 'Pages', id: 409201541
+mas 'Photomator', id: 1444636541
 mas 'Sim Daltonism', id: 693112260
