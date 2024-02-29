@@ -12,7 +12,6 @@ brew 'gh'
 brew 'git'
 brew 'git-lfs'
 brew 'gnupg'
-brew 'httpie'
 brew 'jq'
 brew 'mas' # Mac App Store manager
 brew 'nvm'
@@ -29,6 +28,7 @@ cask 'affinity-designer'
 cask 'affinity-photo'
 cask 'affinity-publisher'
 cask 'arc'
+cask 'bruno'
 cask 'chromium'
 cask 'discord'
 cask 'firefox'
@@ -37,6 +37,7 @@ cask 'google-chrome'
 cask 'gpg-suite-no-mail'
 cask 'imageoptim'
 cask 'iterm2'
+cask 'monitorcontrol'
 cask 'skype'
 cask 'sourcetree'
 cask 'vial'
@@ -48,7 +49,6 @@ mas 'Keynote', id: 409183694
 mas 'Magnet', id: 441258766
 mas 'NepTunes', id: 1006739057
 mas 'Numbers', id: 409203825
-mas 'NordVPN', id: 905953485
 mas 'Pages', id: 409201541
 mas 'Photomator', id: 1444636541
 mas 'Sim Daltonism', id: 693112260
