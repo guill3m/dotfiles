@@ -1,12 +1,13 @@
-# Taps
-tap 'homebrew/cask'
-tap 'homebrew/cask-fonts'
-tap 'homebrew/cask-versions'
-tap 'homebrew/bundle'
+# Fonts
+cask 'font-fira-code'
+cask 'font-source-sans-3'
+cask 'font-source-serif-4'
+
+# Drivers
+cask 'wacom-tablet'
 
 # Binaries
 brew 'coreutils'
-brew 'docker'
 brew 'ffmpeg'
 brew 'gh'
 brew 'git'
@@ -14,7 +15,6 @@ brew 'git-lfs'
 brew 'gnupg'
 brew 'jq'
 brew 'mas' # Mac App Store manager
-brew 'neonctl'
 brew 'nvm'
 brew 'opentofu'
 brew 'pinentry-mac'
@@ -34,6 +34,7 @@ cask 'betterdisplay'
 cask 'bruno'
 cask 'chromium'
 cask 'discord'
+cask 'docker'
 cask 'firefox'
 cask 'firefox@developer-edition'
 cask 'google-chrome'
@@ -47,6 +48,7 @@ cask 'visual-studio-code'
 cask 'zoom'
 
 # Mac App Store
+mas 'AusweisApp Bund', id: 948660805
 mas 'Keynote', id: 409183694
 mas 'Magnet', id: 441258766
 mas 'NepTunes', id: 1006739057
