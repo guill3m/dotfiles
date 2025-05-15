@@ -15,6 +15,7 @@ brew 'git-lfs'
 brew 'gnupg'
 brew 'jq'
 brew 'mas' # Mac App Store manager
+brew 'micro'
 brew 'nvm'
 brew 'oh-my-posh'
 brew 'opentofu'
