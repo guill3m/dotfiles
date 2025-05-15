@@ -11,7 +11,6 @@ plugins=(
   brew
   docker
   git
-  iterm2
   jsontools
   macos
   npm
