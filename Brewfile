@@ -16,6 +16,7 @@ brew 'gnupg'
 brew 'jq'
 brew 'mas' # Mac App Store manager
 brew 'nvm'
+brew 'oh-my-posh'
 brew 'opentofu'
 brew 'pinentry-mac'
 brew 'postgresql@17'

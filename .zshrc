@@ -1,7 +1,11 @@
 # ZSH Config
+
 export ZSH="$HOME/.oh-my-zsh"
-ZSH_THEME="guill3m"
+
+# ZSH_THEME="guill3m"
+
 COMPLETION_WAITING_DOTS="true"
+
 plugins=(
   1password
   brew
@@ -46,3 +50,6 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 export NVM_DIR="$HOME/.nvm"
 [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"
 [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"
+
+# oh-my-posh
+eval "$(oh-my-posh init zsh)"
